@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Book 1",
+    "author": "Author 1",
+    "cover": "url_to_cover_image1.jpg"
+  },
+  {
+    "title": "Book 2",
+    "author": "Author 2",
+    "cover": "url_to_cover_image2.jpg"
+  },
+  {
+    "title": "Book 3",
+    "author": "Author 3",
+    "cover": "url_to_cover_image2.jpg"
+  },
+
+  {
+    "title": "Book 4",
+    "author": "Author 4",
+    "cover": "url_to_cover_image2.jpg"
+  },
+
+  {
+    "title": "Book 5",
+    "author": "Author  5",
+    "cover": "url_to_cover_image2.jpg"
+  }
+]
