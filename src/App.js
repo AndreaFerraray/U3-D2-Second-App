@@ -1,9 +1,9 @@
 import React from "react";
 import "./App.css";
-import MyNav from "./components/MyNav";
-import MyFooter from "./components/MyFooter";
-import Welcome from "./components/Welcome";
-import AllTheBooks from "./components/AllTheBooks";
+import MyNav from "./component/MyNav";
+import MyFooter from "./component/MyFooter";
+import Welcome from "./component/Welcome";
+import AllTheBooks from "./component/AllTheBooks";
 
 function App() {
   return (
